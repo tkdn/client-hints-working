@@ -1,0 +1,11 @@
+{
+  "name": "client-hints-working",
+  "version": "1.0.0",
+  "description": "confirm client-hints on express",
+  "main": "index.js",
+  "author": "tkdn <tkdnation@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
